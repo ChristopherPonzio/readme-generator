@@ -27,6 +27,11 @@ const questions = [
         },
         {
         type: 'input',
+        name: 'screenshot',
+        message: 'What is the name of your screenshot?',
+        },
+        {
+        type: 'input',
         name: 'credits',
         message: 'List of collaborators and 3rd party assets.',
         },

@@ -1,3 +1,5 @@
+
+
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
@@ -46,12 +48,13 @@ function generateMarkdown(data) {
   
   ## Usage
   ${data.usage}
-  
+  ![Demo Screenshot](./assets/images/${data.screenshot})
+
   ## Credits
   ${data.credits}
   
   ${renderLicenseSection(data.license)}
-  ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.license.toLowerCase())}
   
 `;
 }

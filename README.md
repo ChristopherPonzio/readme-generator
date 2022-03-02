@@ -1,21 +1,22 @@
 
-  # Apple
+  # t
 
   ![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Description
-  Banna
+  t
   
   ## Installation
-  Orange
+  t
   
   ## Usage
-  Pinapple
-  
+  t
+  ![Demo Screenshot](./assets/images/t)
+
   ## Credits
-  MonkFruit
+  t
   
   ## License
       Licensed under the MIT license.
-  https://choosealicense.com/licenses/MIT
+  https://choosealicense.com/licenses/mit
   
